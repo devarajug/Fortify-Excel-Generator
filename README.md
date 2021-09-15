@@ -5,7 +5,11 @@ The script [fortify_xml_to_xls.py](https://github.com/devarajug/Fortify-Excel-Ge
 
 This use of this script is very simple just pass the xml report as command line argument as below.
 
-` pthon fortify_xml_to_xls.py path_to_xml_report.xml `
+```
+
+ python fortify_xml_to_xls.py path_to_xml_report.xml 
+ 
+ ```
 
 # License
 
